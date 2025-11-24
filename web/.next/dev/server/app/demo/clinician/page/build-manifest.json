@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/ca2b4_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_231bc87b._.js",
+    "static/chunks/ca2b4_next_dist_compiled_react-dom_30355cc2._.js",
+    "static/chunks/ca2b4_next_dist_compiled_react-server-dom-turbopack_f2241751._.js",
+    "static/chunks/ca2b4_next_dist_compiled_next-devtools_index_300c5cca.js",
+    "static/chunks/ca2b4_next_dist_compiled_7e04736e._.js",
+    "static/chunks/ca2b4_next_dist_client_7d169669._.js",
+    "static/chunks/ca2b4_next_dist_e15a8dbe._.js",
+    "static/chunks/ca2b4_@swc_helpers_cjs_8fecd876._.js",
+    "static/chunks/7889e_PsychiatristAI_CascadeProjects_windsurf-project_PsychiatristAI_web_a0ff3932._.js",
+    "static/chunks/01ff1_PsychiatristAI_CascadeProjects_windsurf-project_PsychiatristAI_web_facd2a2d._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}
