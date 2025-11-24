@@ -10,7 +10,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "backend": "cd backend && python -m uvicorn main:app --reload"
+    "backend": "cd backend && python -m uvicorn main:app --reload",
+    "heroku-postbuild": "cd web && npm install && npm run build"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
