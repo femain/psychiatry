@@ -25,7 +25,6 @@ scispacy==0.5.3
 # API and Web
 fastapi==0.108.0
 uvicorn==0.25.0
-pydantic==2.5.0
 python-multipart==0.0.6
 
 # Database
